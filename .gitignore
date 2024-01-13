@@ -1,0 +1,10 @@
+*.DS_Store
+.idea
+*.log
+*.env
+composer.bat
+composer.phar
+Caddyfile.*
+*.pem
+enc.sh
+dec.sh
